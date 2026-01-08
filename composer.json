@@ -11,7 +11,8 @@
         "silverstripe/startup-theme": "~1.0.11@stable",
         "silverstripe/login-forms": "~6.1.0@stable",
         "silverstripe/htmleditor-tinymce": "~1.0.2@stable",
-        "dnadesign/silverstripe-elemental": "^6.1"
+        "dnadesign/silverstripe-elemental": "^6.1",
+        "symbiote/silverstripe-queuedjobs": "^6.1"
     },
     "require-dev": {
         "phpunit/phpunit": "^11.3"
