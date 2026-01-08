@@ -12,7 +12,8 @@
             "fonts",
             "images",
             "js",
-            "favicons"
+            "favicons",
+            "dist"
         ]
     }
 }

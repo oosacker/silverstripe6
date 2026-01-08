@@ -26,5 +26,6 @@
     <% include Footer %>
     <% if $HasPerm('CMS_ACCESS') %>$SilverStripeNavigator<% end_if %>
     <script type="module" src="{$themedResourceURL('js/startup.js')}" defer></script>
+    $ViteAssets
 </body>
 </html>
