@@ -1,0 +1,18 @@
+{
+    "name": "custom/my-theme",
+    "description": "Custom Silverstripe theme",
+    "type": "silverstripe-theme",
+    "license": "proprietary",
+    "require": {
+        "silverstripe/framework": ">=5.2"
+    },
+    "extra": {
+        "expose": [
+            "css",
+            "fonts",
+            "images",
+            "js",
+            "favicons"
+        ]
+    }
+}
